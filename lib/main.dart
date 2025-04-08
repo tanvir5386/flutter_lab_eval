@@ -22,8 +22,8 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   final String certificateImageUrl =
-      'https://media.istockphoto.com/id/1128426035/vector/elegant-blue-and-gold-diploma-certificate-template.jpg?s=612x612&w=0&k=20&c=u6nl2YC0OfpYpcNS3C97EZhgaJKs4IVh-Tc0a55M-wc='; // ✅ WORKING IMAGE
-
+      'https://media.istockphoto.com/id/1128426035/vector/elegant-blue-and-gold-diploma-certificate-template.jpg?s=612x612&w=0&k=20&c=u6nl2YC0OfpYpcNS3C97EZhgaJKs4IVh-Tc0a55M-wc='; 
+//Final
   @override
   Widget build(BuildContext context) {
     return Scaffold(
